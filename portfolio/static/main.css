@@ -1,0 +1,13 @@
+#body {
+    background-color: #252850;
+    font-family: 'San Francisco', sans-serif;
+}
+
+.bg-black{
+    background: #000;
+}
+
+.card-project:hover{
+    border: 1px solid #fff;
+    cursor: pointer;
+}
